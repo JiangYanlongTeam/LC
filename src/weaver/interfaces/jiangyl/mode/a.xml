@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+	<header>
+		<userid>1</userid>
+		<modeid>27</modeid>
+		<id></id>
+	</header>
+	<search>
+		<condition />
+		<right>Y</right>
+	</search>
+	<data id="">
+		<maintable>
+			<field>
+				<filedname>ContractCode</filedname>
+				<fileddbtype>varchar(400)</fileddbtype>
+				<filedvalue>zb-01-2018-01-0004</filedvalue>
+			</field>
+			<field>
+				<filedname>gcmc</filedname>
+				<fileddbtype>varchar(400)</fileddbtype>
+				<filedvalue>明源测试合同3</filedvalue>
+			</field>
+			<field>
+				<filedname>htqdrq</filedname>
+				<fileddbtype>varchar(400)</fileddbtype>
+				<filedvalue>2018-01-10</filedvalue>
+			</field>
+			<field>
+				<filedname>htje</filedname>
+				<fileddbtype>float</fileddbtype>
+				<filedvalue>1</filedvalue>
+			</field>
+			<field>
+				<filedname>xmmc</filedname>
+				<fileddbtype>varchar(400)</fileddbtype>
+				<filedvalue>5</filedvalue>
+			</field>
+			<field>
+				<filedname>ProviderCode</filedname>
+				<fileddbtype>varchar(400)</fileddbtype>
+				<filedvalue></filedvalue>
+			</field>
+		</maintable>
+	</data>
+</ROOT>
