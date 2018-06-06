@@ -6,11 +6,12 @@ import com.alibaba.fastjson.JSONObject;
 
 import weaver.common.util.taglib.SplitPageXmlServlet;
 import weaver.common.util.taglib.SplitPageXmlServletNew;
+import weaver.hrm.definedfield.HrmFieldManager;
+import weaver.hrm.util.html.HtmlElement;
 
 public class Test {
 
 	public static void main(String[] args) {
-		SplitPageXmlServlet s = new SplitPageXmlServlet();
 	}
 
 	public static String[] getDate(String selectDateString) {
